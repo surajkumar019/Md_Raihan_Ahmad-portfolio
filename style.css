@@ -251,10 +251,10 @@ section {
 
 .home-img img {
   position: relative;
-  width: 25vw;
-  height: 25vw;
+  width: 20vw;
+  height: 30vw;
   object-fit: cover;
-  object-position: center;
+  object-position: top;
   cursor: pointer;
   border-radius: 50%;
 }
