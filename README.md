@@ -1,4 +1,4 @@
-# 💼 Md Raihan Ahmad - Portfolio Website
+# 💼 suraj kumar - Portfolio Website
 
 This is my personal portfolio website created using **React.js**, showcasing my profile as a Computer Science Engineer from **IIT Patna**. The website includes sections like About Me, Skills, Projects, Resume, and Contact to help visitors learn more about my background, expertise, and the work I've done.
 
